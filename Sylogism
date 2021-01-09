@@ -1,3 +1,19 @@
+E.g
+Square 3x,3y has a value of 1
+The sqare 2x + 3y was a  2!?.
+The sqare 3x + 2y was empty, hence;.
+if 3x,2y is a mine none of (4x,4y or 2x,2y or 3x,4y) is a mine:
+The sqare 4x + 4y was empty, hence;.
+etc...
+The sqare 4x + 2y was a  2!?.
+The sqare 2x + 2y was empty, hence;.
+etc...
+The sqare 2x + 4y was a  3!?.
+The sqare 3x + 4y was empty, hence;.
+etc...
+The sqare 4x + 3y was a  3!?.
+
+
 Now the file has it.
 
 The sqare 2x + 3y was a  2!?.
@@ -5,6 +21,7 @@ The sqare 3x + 2y was empty, hence;.
 
 The sqare 4x + 4y was a  7!?.
 The sqare 4x + 2y was empty, hence;.
+
 
 Now the file has it.
 
